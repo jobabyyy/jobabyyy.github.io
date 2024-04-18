@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../ML T1/MachineLearningGH/holbertonschool-machine_learning"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../jobabyyy.github.io"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio"
+	}
+}
